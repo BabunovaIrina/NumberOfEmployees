@@ -1,6 +1,5 @@
-public class Main {
+public class Employees {
     public static void main(String[] args) {
-
         final int numberProgrammers = 7;
         System.out.println("Количество программистов - " + numberProgrammers);
 
